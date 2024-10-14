@@ -5,6 +5,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+[Tt]emp/
 /[Uu]ser[Ss]ettings/
 /Assets/StreamingAssets/aa.meta
 /Assets/StreamingAssets/aa/*
